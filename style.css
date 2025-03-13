@@ -1,0 +1,36 @@
+/* Custom Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+/* Navigation Bar */
+.navbar {
+    background-color: #333;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar a:hover {
+    color: #ddd;
+}
+
+/* Home Section */
+#home {
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 15px 0;
+}
+
+footer p {
+    margin: 0;
+}
